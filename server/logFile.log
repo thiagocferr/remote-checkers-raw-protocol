@@ -1,0 +1,47 @@
+[2021-6-20 15:44:36] - Server process has been started
+[2021-6-20 15:45:22] - Client at "127.0.0.1" has connected
+[2021-6-20 15:46:11] - Unsuccessful login attemp to user "a" from IP "127.0.0.1"
+[2021-6-20 15:47:10] - User "thiago" was successfully logged in from IP "127.0.0.1"
+[2021-6-20 15:48:8] - Client at "127.0.0.1" has connected
+[2021-6-20 15:48:18] - User "teste" was successfully logged in from IP "127.0.0.1"
+[2021-6-20 15:48:35] - A match has started between "thiago" (127.0.0.1) and "teste" (127.0.0.1)
+[2021-6-20 15:48:35] - A match has started between "teste" (127.0.0.1) and "thiago" (127.0.0.1)
+[2021-6-20 15:48:53] - A match has ended between "teste" (127.0.0.1) and "thiago" (127.0.0.1) - WINNER: teste
+[2021-6-20 15:51:40] - Client at IP "127.0.0.1" disconnected from server unexpectedly
+[2021-6-20 15:54:30] - Server process has been started
+[2021-6-20 15:54:56] - Client at "127.0.0.1" has connected
+[2021-6-20 15:55:7] - User "thiago" was successfully logged in from IP "127.0.0.1"
+[2021-6-20 15:56:40] - Client at IP "127.0.0.1" disconnected from server unexpectedly
+[2021-6-20 16:1:44] - Server process has been started
+[2021-6-20 16:1:50] - Client at "127.0.0.1" has connected
+[2021-6-20 16:1:58] - User "thiago" was successfully logged in from IP "127.0.0.1"
+[2021-6-20 16:13:29] - Server process has been started
+[2021-6-20 16:13:39] - Client at "127.0.0.1" has connected
+[2021-6-20 16:17:20] - Server process has been started
+[2021-6-20 16:17:26] - Client at "127.0.0.1" has connected
+[2021-6-20 16:17:33] - Client at IP "127.0.0.1" disconnected from server gracefully
+[2021-6-20 16:17:42] - Client at "127.0.0.1" has connected
+[2021-6-20 16:17:52] - User "thiago" was successfully logged in from IP "127.0.0.1"
+[2021-6-20 16:17:57] - Client at IP "127.0.0.1" disconnected from server gracefully
+[2021-6-20 16:18:10] - Client at "127.0.0.1" has connected
+[2021-6-20 16:18:34] - Client at "127.0.0.1" has connected
+[2021-6-20 16:20:39] - Server process has been started
+[2021-6-20 16:20:44] - Client at "127.0.0.1" has connected
+[2021-6-20 16:21:8] - Client at IP "127.0.0.1" disconnected from server gracefully
+[2021-6-20 16:21:14] - Client at "127.0.0.1" has connected
+[2021-6-20 16:23:45] - Server process has been started
+[2021-6-20 16:23:55] - Client at "127.0.0.1" has connected
+[2021-6-20 16:24:1] - Client at IP "127.0.0.1" disconnected from server unexpectedly
+[2021-6-20 16:24:11] - Client at "127.0.0.1" has connected
+[2021-6-20 16:24:20] - Client at IP "127.0.0.1" disconnected from server gracefully
+[2021-6-20 16:36:31] - Server process has been started
+[2021-6-20 16:36:57] - Server process has been started
+[2021-6-20 16:37:58] - Server process has been started
+[2021-6-20 17:1:9] - Server process has been started
+[2021-6-20 17:2:17] - Server process has been started
+[2021-6-20 17:2:19] - Server process has been terminated
+[2021-6-21 3:54:2] - Server process has been started
+[2021-6-21 3:54:8] - Client at "127.0.0.1" has connected
+[2021-6-21 3:54:12] - User "thiago" was successfully logged in from IP "127.0.0.1"
+[2021-6-21 3:54:21] - Client at IP "127.0.0.1" disconnected from server gracefully
+[2021-6-21 3:54:37] - Server process has been terminated
